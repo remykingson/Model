@@ -1,0 +1,9 @@
+*/venv
+reuirements.txt
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*/chrome_langchain_db
